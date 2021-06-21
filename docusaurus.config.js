@@ -6,18 +6,18 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: 'https://github.com/hsrwrobotics/HSRW_Robotics_Project',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'hsrwrobotics', // Usually your GitHub org/user name.
+  projectName: 'HSRWRoboticsClubDocs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'HSRW Robotics Club Docs',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'https://lh3.googleusercontent.com/-BQHHYyYKlzI/XZhR7injz3I/AAAAAAAAABA/XNm7mozeR_sn44X-68gbtHh39391ug2MwCEwYBhgLKtQDABHVOhyAPBh-B7T8FwwPduDZRlETndTjIWr4kUxIf_wrLEOl7ztl5pOpyRVcfOwp5CAwkKKTMQnGj6NWpJ7WX06GM1su7b5k4M1MSU9N96MpvuBszZXyf8WD2jhsPi1Whszf7ifzjSBNOUbVAK8w41host7aJqYjYOrXn8c-v87dqmfoXRiAI9DIGfSvSoVvXmmn7rRUchPQLu_13q3GgWS14IVWmGn4u_2lmSqGVvcIOfPts9mzyjC4GqXAG_Kz5tN0S7uvkY2OWx5Q6dxn61260Z2gMBBfGZfMFfrt8KhHY2OllqY2ZMNysmQdh0RmMjhcY-Mtj6v70Wu5lJPpz2iA_-KQaC1kZsMUSwvallY5BhXfb7_2w_GnhlRTz3l190AtPWZ4h3KAi4GqmHDbgQJXXX0XCtngduER-Kpwgs1PkZOsdK_-qnd_tqAe0J75ZpvrQUMFgTlKgBQzssjdONiE-9PvZtu_NrstzeFZ7_vwYs5iOGJaFBa4Negy2d7Ku5iMafgefrXFrAmwIm8povdWdmDbU81lFaDYHNYuCwdmHeU7W3jVwLUikhrbOaQgSDM8priEXE6lQDCsABNRpOyrly06SVU3Ri4D21XviVrPb71rMJfkwoYG/w140-h140-p/index.jpg',
       },
       items: [
         {
