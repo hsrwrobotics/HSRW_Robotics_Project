@@ -1,13 +1,13 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const darkCodeTheme = require('prism-react-renderer/themes/nightOwl');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'HSRW Robotics',
+  tagline: 'Judgement day is coming',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/HSRW_Robotics_Project/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'hsrwrobotics', // Usually your GitHub org/user name.
@@ -16,7 +16,7 @@ module.exports = {
     navbar: {
       title: 'HSRW Robotics Club Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'HSRW Robotics Club Logo',
         src: 'https://lh3.googleusercontent.com/-BQHHYyYKlzI/XZhR7injz3I/AAAAAAAAABA/XNm7mozeR_sn44X-68gbtHh39391ug2MwCEwYBhgLKtQDABHVOhyAPBh-B7T8FwwPduDZRlETndTjIWr4kUxIf_wrLEOl7ztl5pOpyRVcfOwp5CAwkKKTMQnGj6NWpJ7WX06GM1su7b5k4M1MSU9N96MpvuBszZXyf8WD2jhsPi1Whszf7ifzjSBNOUbVAK8w41host7aJqYjYOrXn8c-v87dqmfoXRiAI9DIGfSvSoVvXmmn7rRUchPQLu_13q3GgWS14IVWmGn4u_2lmSqGVvcIOfPts9mzyjC4GqXAG_Kz5tN0S7uvkY2OWx5Q6dxn61260Z2gMBBfGZfMFfrt8KhHY2OllqY2ZMNysmQdh0RmMjhcY-Mtj6v70Wu5lJPpz2iA_-KQaC1kZsMUSwvallY5BhXfb7_2w_GnhlRTz3l190AtPWZ4h3KAi4GqmHDbgQJXXX0XCtngduER-Kpwgs1PkZOsdK_-qnd_tqAe0J75ZpvrQUMFgTlKgBQzssjdONiE-9PvZtu_NrstzeFZ7_vwYs5iOGJaFBa4Negy2d7Ku5iMafgefrXFrAmwIm8povdWdmDbU81lFaDYHNYuCwdmHeU7W3jVwLUikhrbOaQgSDM8priEXE6lQDCsABNRpOyrly06SVU3Ri4D21XviVrPb71rMJfkwoYG/w140-h140-p/index.jpg',
       },
       items: [
@@ -28,7 +28,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/hsrwrobotics/HSRW_Robotics_Project',
           label: 'GitHub',
           position: 'right',
         },
@@ -58,8 +58,8 @@ module.exports = {
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/hsrwrobotics/?hl=en',
             },
           ],
         },
@@ -72,12 +72,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/hsrwrobotics',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} HSRW Robotics Club Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
