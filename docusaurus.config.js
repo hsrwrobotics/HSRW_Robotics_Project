@@ -6,12 +6,12 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: 'https://github.com/hsrwrobotics/HSRW_Robotics_Project',
+  baseUrl: '/HSRW_Robotics_Project/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'hsrwrobotics', // Usually your GitHub org/user name.
-  projectName: 'HSRWRoboticsClubDocs', // Usually your repo name.
+  projectName: 'HSRW_Robotics_Project', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'HSRW Robotics Club Docs',
