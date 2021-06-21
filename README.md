@@ -20,6 +20,6 @@ yarn install
 
 ## Deployment
 
-```console
+```consolec
 cmd /C "set "GIT_USER=hsrwrobotics" && yarn deploy"
 ```
