@@ -28,18 +28,26 @@
   background-color: chocolate;
 }
 
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;         
+}
+
 .contactcard {
   display: flex;
   flex-direction: column;
-  padding: 10px;
+  padding: 10vh;
   color: #ffffff;
-  background-color: rgba(210, 105, 30, .5);
+  background-color: rgba(226, 112, 35, .5);
 
   box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, 0.75);
   border-radius: 10px;
   max-width: 40vh;
   max-height: 40vh;
   margin-bottom: 10px;
+  margin-right: 5vh;
   align-items: center;
   align-content: center;
   justify-content: center;
