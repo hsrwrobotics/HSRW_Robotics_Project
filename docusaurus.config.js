@@ -28,6 +28,21 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: 'team', label: 'Team', position: 'left'},
+        {
+          label: 'Support us', 
+          position: 'left',
+          items: [
+            {
+              href: 'https://www.buymeacoffee.com/hsrwrobotics',
+              label: "Buy me a Coffee",
+            },
+            {
+              href: 'https://www.paypal.com/paypalme/hsrwrobotics',
+              label: "Paypal",
+            }
+            
+          ],
+        },
 
 
         {
