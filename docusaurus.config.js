@@ -1,5 +1,5 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/nightOwl');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -22,11 +22,14 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'test_next',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Projects',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: 'team', label: 'Team', position: 'left'},
+
+
         {
           href: 'https://github.com/hsrwrobotics/HSRW_Robotics_Project',
           label: 'GitHub',
