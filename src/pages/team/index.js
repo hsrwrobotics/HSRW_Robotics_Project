@@ -26,8 +26,14 @@ function Hello() {
       <div className={styles.content}>
       <p>
         Started in the summer of 2019 by a band of misfits.
+
+
       </p>
+
+
       <p>
+
+        
         over and out.
       </p>
       </div>
