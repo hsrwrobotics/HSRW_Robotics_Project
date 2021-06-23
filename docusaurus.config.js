@@ -68,12 +68,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCHjGc4oEYnKwVJ9gfushk-g/featured',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/HSRWRobotics/',
             },
             {
               label: 'Instagram',
