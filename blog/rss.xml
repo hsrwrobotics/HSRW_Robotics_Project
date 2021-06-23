@@ -4,13 +4,20 @@
         <title>HSRW Robotics Blog</title>
         <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog</link>
         <description>HSRW Robotics Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 11:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog/welcome</link>
             <guid>welcome</guid>
+            <pubDate>Wed, 23 Jun 2021 11:00:49 GMT</pubDate>
+            <description><![CDATA[Just saying Hi.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog/welcome-base</link>
+            <guid>welcome-base</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>

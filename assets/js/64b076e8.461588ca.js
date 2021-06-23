@@ -1,1 +1,0 @@
-(self.webpackChunkhsrw_robotics=self.webpackChunkhsrw_robotics||[]).push([[697],{6847:function(o){"use strict";o.exports=JSON.parse('{"permalink":"/HSRW_Robotics_Project/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog</id>
     <title>HSRW Robotics Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-06-23T11:00:49.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog"/>
     <subtitle>HSRW Robotics Blog</subtitle>
@@ -11,6 +11,13 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog/welcome"/>
+        <updated>2021-06-23T11:00:49.501Z</updated>
+        <summary type="html"><![CDATA[Just saying Hi.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome-base</id>
+        <link href="https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog/welcome-base"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
     </entry>
