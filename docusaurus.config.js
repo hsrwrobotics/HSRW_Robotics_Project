@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'HSRW Robotics',
-  tagline: 'Judgement day is coming',
+  tagline: 'We develop and share cool open-source Robotic Projects',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/HSRW_Robotics_Project/',
   onBrokenLinks: 'ignore',
@@ -22,7 +22,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'test_next',
+          docId: 'Preface',
           position: 'left',
           label: 'Projects',
         },
@@ -44,7 +44,6 @@ module.exports = {
           ],
         },
 
-
         {
           href: 'https://github.com/hsrwrobotics/HSRW_Robotics_Project',
           label: 'GitHub',
@@ -59,8 +58,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Autonomous Tesla Truck',
+              to: '/docs/tesla_truck/Introduction',
+            },
+            {
+              label: 'Turtlebot 3 and Nyrio',
+              to: '/docs/turtlebot3_nyrio/Introduction',
             },
           ],
         },
