@@ -48,25 +48,18 @@ function Hello() {
 
   return (
     <Layout title="HSRW Robotics Club">
-      <h1>About the Club</h1>
-
-      <div className={styles.content}>
+      {/* <h1>About the Club</h1> */}
+      {/* <div className={styles.content}>
       <p>
-        Started in the summer of 2019 by a band of misfits.
-
-
+      Introduction about the club
       </p>
+      </div> */}
 
-
-      <p>
-
-        
-        over and out.
-      </p>
-      </div>
-
-
-      <h1>The Team</h1>
+      <br></br>
+      <br></br>
+      <center><h1>The Team</h1></center>
+      <br></br>
+      <br></br>
       <div className={styles.cardContainer}>
 
       {teamDets.map(contact=>(

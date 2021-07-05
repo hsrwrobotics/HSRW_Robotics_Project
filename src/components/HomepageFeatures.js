@@ -1,35 +1,32 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
-
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: "HARDWARE",
+    Svg: require('../../static/img/3d_printer.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Accessible CAD files so anyone can 3D-print them at home. 
+        Otherwise it should be affordable and can be easily purchased.
+      </>
+    ),
+  },  
+  {
+    title: 'SOFTWARE',
+    Svg: require('../../static/img/coding.svg').default,
+    description: (
+      <>
+        Simply download the code and run.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'CONTRIBUTE',
+    Svg: require('../../static/img/github.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Contribute to our open source software projects.
       </>
     ),
   },
