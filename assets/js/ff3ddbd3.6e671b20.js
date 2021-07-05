@@ -1,0 +1,1 @@
+(self.webpackChunkhsrw_robotics=self.webpackChunkhsrw_robotics||[]).push([[383],{6103:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/HSRW_Robotics_Project/blog/tags","slug":"eu-science-hub","name":"eu science hub","count":1,"permalink":"/HSRW_Robotics_Project/blog/tags/eu-science-hub"}')}}]);
