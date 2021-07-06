@@ -2,23 +2,23 @@
 <rss version="2.0">
     <channel>
         <title>HSRW Robotics Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog</link>
         <description>HSRW Robotics Blog</description>
-        <lastBuildDate>Mon, 05 Jul 2021 17:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 11:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[JRC AUTOTRAC 2020]]></title>
             <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog/jrc_autotrac_2020</link>
             <guid>jrc_autotrac_2020</guid>
-            <pubDate>Mon, 05 Jul 2021 17:04:04 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 11:34:52 GMT</pubDate>
             <description><![CDATA[JRC-AUTOTRAC 2020: A small-scale automated vehicles competition]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Wed, 23 Jun 2021 11:00:49 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 11:32:53 GMT</pubDate>
             <description><![CDATA[Just saying Hi.]]></description>
         </item>
     </channel>
