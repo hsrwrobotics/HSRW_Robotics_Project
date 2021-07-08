@@ -20,8 +20,13 @@ yarn start
 
 ## Deployment
 
+__Window__
 ```consolec
 cmd /C "set "GIT_USER=hsrwrobotics" && yarn deploy"
+```
+__Bash__
+```consolec
+GIT_USER=hsrwrobotics && yarn deploy
 ```
 
 ## Mdx features
