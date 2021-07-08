@@ -1,1 +1,0 @@
-(self.webpackChunkhsrw_robotics=self.webpackChunkhsrw_robotics||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"JRC AUTOTRAC 2020","permalink":"/HSRW_Robotics_Project/blog/jrc_autotrac_2020"},{"title":"Welcome","permalink":"/HSRW_Robotics_Project/blog/welcome"}]}')}}]);

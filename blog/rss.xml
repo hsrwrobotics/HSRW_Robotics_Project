@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>HSRW Robotics Blog</title>
-        <link>https://your-docusaurus-test-site.com/HSRW_Robotics_Project/blog</link>
+        <link>https://your-docusaurus-test-site.com/blog</link>
         <description>HSRW Robotics Blog</description>
         <lastBuildDate>Mon, 05 Jul 2021 11:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
